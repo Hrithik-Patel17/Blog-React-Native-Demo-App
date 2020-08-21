@@ -1,0 +1,89 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my post"
+    },
+    {
+      "title": "THE Huffington Post ",
+      "content": "The history of political blogging might usefully be divided into the periods pre- and post-Huffington. Before the millionaire socialite Arianna Huffington decided to get in on the act, bloggers operated in a spirit of underdog solidarity. They hated the mainstream media - and the feeling was mutual.",
+      "id": 2
+    },
+    {
+      "title": "Techcrunch",
+      "content": "Techcrunch began in 2005 as a blog about dotcom start-ups in Silicon Valley, but has quickly become one of the most influential news websites across the entire technology industry. Founder Michael Arrington had lived through the internet goldrush as a lawyer and entrepreneur before deciding that writing about new companies was more of an opportunity than starting them himself. His site is now ranked the third-most popular blog in the world by search engine Technorati, spawning a mini-empire of websites and conferences as a result. Business Week named Arrington one of the 25 most influential people on the web, and Techcrunch has even scored interviews with Barack Obama and John McCain.",
+      "id": 3
+    },
+    {
+      "title": "Kottke",
+      "content": "One of the early wave of blogging pioneers, web designer Jason Kottke started keeping track of interesting things on the internet as far back as 1998. The site took off, boosted partly through close links to popular blog-building website Blogger (he later married one of the founders). And as the phenomenon grew quickly, Kottke became a well-known filter for surfers on the lookout for interesting reading.",
+      "id": 4
+    },
+    {
+      "title": "Dooces",
+      "content": "One of the best-known personal bloggers (those who provide more of a diary than a soapbox or reporting service), Heather Armstrong has been writing online since 2001. Though there were personal websites that came before hers, certain elements conspired to make Dooce one of the biggest public diaries since Samuel Pepys's (whose diary is itself available, transcribed in blog form, at Pepysdiary.com). Primarily, Armstrong became one of the first high-profile cases of somebody being fired for writing about her job. After describing events that her employer - a dotcom start-up - thought reflected badly on them, Armstrong was sacked. The incident caused such fierce debate that Dooce found itself turned into a verb that is used in popular parlance (often without users realising its evolution): 'dooced - to be fired from one's job as a direct result of one's personal website'.\n\nBehind Dooce stands an army of personal bloggers perhaps not directly influenced by, or even aware of, her work - she represents the hundreds of thousands who decide to share part of their life with strangers.\n\nArmstrong's honesty has added to her popularity, and she has written about work, family life, postnatal depression, motherhood, puppies and her Mormon upbringing with the same candid and engaging voice. Readers feel that they have been brought into her life, and reward her with their loyalty. Since 2005 the advertising revenue on her blog alone has been enough to support her family.\n\nLeast likely to post 'I like babies but I couldn't eat a whole one'\n\ndooce.com",
+      "id": 5
+    },
+    {
+      "title": "Perezhilton",
+      "content": "Once dubbed 'Hollywood's most hated website', Perezhilton (authored by Mario Lavandeira since 2005) is the gossip site celebrities fear most. Mario, 29, is famous for scrawling rude things (typically doodles about drug use) over pap photos and outing closeted stars. On the day of Lindsay Lohan's arrest for drink-driving, he posted 60 updates, and 8m readers logged on.\n\nHe's a shameless publicity whore, too. His reality show premiered on VH1 last year, and his blogsite is peppered with snaps of him cuddling Paris Hilton at premieres. Fergie from Black Eyed Peas alluded to him in a song, and Avril Lavigne phoned, asking him to stop writing about her after he repeatedly blogged about her lack of talent and her 'freakishly long arm'.\n\nLeast likely to post 'Log on tomorrow for Kofi Annan's live webchat'\n\nperezhilton.com",
+      "id": 6
+    },
+    {
+      "title": "Talking points memo",
+      "content": "At some point during the disputed US election of 2000 - when Al Gore was famously defeated by a few hanging chads - Joshua Micah Marshall lost patience. Despite working as a magazine editor, Marshall chose to vent on the web. Eight years later Talking Points Memo and its three siblings draw in more than 400,000 viewers a day from their base in New York.\n\nMarshall has forged a reputation, and now makes enough money to run a small team of reporters who have made an impact by sniffing out political scandal and conspiracy. 'I think in many cases the reporting we do is more honest, more straight than a lot of things you see even on the front pages of great papers like the New York Times and the Washington Post,' he said in an interview last year. 'But I think both kinds of journalism should exist, should co-exist.'\n\nAlthough his unabashed partisan approach is admonished by many old-fashioned American reporters, Marshall's skills at pulling together the threads of a story have paid dividends. Last year he helped set the agenda after George Bush covertly fired a string of US attorneys deemed disloyal to the White House. While respected mainstream media figures accused Marshall of seeing conspiracy, he kept digging: the result was the resignation of attorney general Alberto Gonzales, and a prestigious George Polk journalism award for Marshall, the first ever for a blogger.",
+      "id": 7
+    },
+    {
+      "title": "Icanhascheezburger",
+      "content": "At some point during the disputed US election of 2000 - when Al Gore was famously defeated by a few hanging chads - Joshua Micah Marshall lost patience. Despite working as a magazine editor, Marshall chose to vent on the web. Eight years later Talking Points Memo and its three siblings draw in more than 400,000 viewers a day from their base in New York.\n\nMarshall has forged a reputation, and now makes enough money to run a small team of reporters who have made an impact by sniffing out political scandal and conspiracy. 'I think in many cases the reporting we do is more honest, more straight than a lot of things you see even on the front pages of great papers like the New York Times and the Washington Post,' he said in an interview last year. 'But I think both kinds of journalism should exist, should co-exist.'\n\nAlthough his unabashed partisan approach is admonished by many old-fashioned American reporters, Marshall's skills at pulling together the threads of a story have paid dividends. Last year he helped set the agenda after George Bush covertly fired a string of US attorneys deemed disloyal to the White House. While respected mainstream media figures accused Marshall of seeing conspiracy, he kept digging: the result was the resignation of attorney general Alberto Gonzales, and a prestigious George Polk journalism award for Marshall, the first ever for a blogger.",
+      "id": 8
+    },
+    {
+      "title": "Beppe Grillo",
+      "content": "Among the most visited blogs in the world is that of Beppe Grillo, a popular Italian comedian and political commentator, long persona non grata on state TV, who is infuriated daily - especially by corruption and financial scandal in his country.\n\nA typical blog by Grillo calls, satirically or otherwise, for the people of Naples and Campania to declare independence, requests that Germany declare war on Italy to help its people ('We will throw violets and mimosa to your Franz and Gunther as they march through') or reports on Grillo's ongoing campaign to introduce a Bill of Popular Initiative to remove from office all members of the Italian parliament who've ever had a criminal conviction. Grillo's name for Mario Mastella, leader of the Popular-UDEUR centre-right party, is Psychodwarf. 'In another country, he would have been the dishwasher in a pizzeria,' says Grillo. Through his blog, he rallied many marchers in 280 Italian towns and cities for his 'Fuck You' Day last September.\n\nLeast likely to post 'Sign up to our campaign to grant Silvo Berlusconi immunity'\n\nbeppegrillo.it",
+      "id": 9
+    },
+    {
+      "title": "Gawker",
+      "content": "Among the most visited blogs in the world is that of Beppe Grillo, a popular Italian comedian and political commentator, long persona non grata on state TV, who is infuriated daily - especially by corruption and financial scandal in his country.\n\nA typical blog by Grillo calls, satirically or otherwise, for the people of Naples and Campania to declare independence, requests that Germany declare war on Italy to help its people ('We will throw violets and mimosa to your Franz and Gunther as they march through') or reports on Grillo's ongoing campaign to introduce a Bill of Popular Initiative to remove from office all members of the Italian parliament who've ever had a criminal conviction. Grillo's name for Mario Mastella, leader of the Popular-UDEUR centre-right party, is Psychodwarf. 'In another country, he would have been the dishwasher in a pizzeria,' says Grillo. Through his blog, he rallied many marchers in 280 Italian towns and cities for his 'Fuck You' Day last September.\n\nLeast likely to post 'Sign up to our campaign to grant Silvo Berlusconi immunity'\n\nbeppegrillo.it",
+      "id": 10
+    },
+    {
+      "title": "The Drudge Report",
+      "content": "The Report started life as an email gossip sheet, and then became a trashy webzine with negligible traffic. But thanks to the decision in 1998 to run a scurrilous rumour – untouched by mainstream media – about Bill Clinton and a White House intern named Monica Lewinsky, it became a national phenomenon. Recent scoops include Barack Obama dressed in tribal garb and the fact Prince Harry was serving in Afghanistan. Drudge is scorned by journalists and serious bloggers for his tabloid sensibilities, but his place in the media history books is guaranteed. And much though they hate him, the hacks all still check his front page – just in case he gets another president-nobbling scoop.\n\nLeast likely to post 'Oops, one sec – just got to check the facts…'\n\ndrudgereport.com",
+      "id": 11
+    },
+    {
+      "title": "Xu Jinglei",
+      "content": "The Report started life as an email gossip sheet, and then became a trashy webzine with negligible traffic. But thanks to the decision in 1998 to run a scurrilous rumour – untouched by mainstream media – about Bill Clinton and a White House intern named Monica Lewinsky, it became a national phenomenon. Recent scoops include Barack Obama dressed in tribal garb and the fact Prince Harry was serving in Afghanistan. Drudge is scorned by journalists and serious bloggers for his tabloid sensibilities, but his place in the media history books is guaranteed. And much though they hate him, the hacks all still check his front page – just in case he gets another president-nobbling scoop.\n\nLeast likely to post 'Oops, one sec – just got to check the facts…'\n\ndrudgereport.com",
+      "id": 12
+    },
+    {
+      "title": "Treehugger",
+      "content": "Treehugger is a green consumer blog with a mission to bring a sustainable lifestyle to the masses. Its ethos, that a green lifestyle does not have to mean sacrifice, and its positive, upbeat feel have attracted over 1.8m unique users a month. Consistently ranked among the top 20 blogs on Technorati, Treehugger has 10 staff but also boasts 40 writers from a wide variety of backgrounds in more than 10 countries around the world, who generate more than 30 new posts a day across eight categories, ranging from fashion and beauty, travel and nature, to science and technology. Treehugger began as an MBA class project four years ago and says it now generates enough revenue from sponsorship and advertising to pay all its staffers and writers. It has developed a highly engaged community and has added popular services like TreeHugger.tv, and a user-generated blog, Hugg. It was bought by the Discovery Channel last year for a rumoured $10m.\n\nLeast likely to post 'Why Plastic Bags rock'\n\ntreehugger.com",
+      "id": 13
+    },
+    {
+      "title": "Microsiervos",
+      "content": "Treehugger is a green consumer blog with a mission to bring a sustainable lifestyle to the masses. Its ethos, that a green lifestyle does not have to mean sacrifice, and its positive, upbeat feel have attracted over 1.8m unique users a month. Consistently ranked among the top 20 blogs on Technorati, Treehugger has 10 staff but also boasts 40 writers from a wide variety of backgrounds in more than 10 countries around the world, who generate more than 30 new posts a day across eight categories, ranging from fashion and beauty, travel and nature, to science and technology. Treehugger began as an MBA class project four years ago and says it now generates enough revenue from sponsorship and advertising to pay all its staffers and writers. It has developed a highly engaged community and has added popular services like TreeHugger.tv, and a user-generated blog, Hugg. It was bought by the Discovery Channel last year for a rumoured $10m.\n\nLeast likely to post 'Why Plastic Bags rock'\n\ntreehugger.com",
+      "id": 14
+    },
+    {
+      "title": "TMZ",
+      "content": "Treehugger is a green consumer blog with a mission to bring a sustainable lifestyle to the masses. Its ethos, that a green lifestyle does not have to mean sacrifice, and its positive, upbeat feel have attracted over 1.8m unique users a month. Consistently ranked among the top 20 blogs on Technorati, Treehugger has 10 staff but also boasts 40 writers from a wide variety of backgrounds in more than 10 countries around the world, who generate more than 30 new posts a day across eight categories, ranging from fashion and beauty, travel and nature, to science and technology. Treehugger began as an MBA class project four years ago and says it now generates enough revenue from sponsorship and advertising to pay all its staffers and writers. It has developed a highly engaged community and has added popular services like TreeHugger.tv, and a user-generated blog, Hugg. It was bought by the Discovery Channel last year for a rumoured $10m.\n\nLeast likely to post 'Why Plastic Bags rock'\n\ntreehugger.com",
+      "id": 15
+    },
+    {
+      "title": "Engadget",
+      "content": "Engadget provides breaking news, rumours and commentary on, for instance, a camera able to track a head automatically, the very latest HD screen or 'visual pollution' concerns prompted by hand-held pico laser-projectors. The world's most popular blog on gadgets and consumer electronics, Engadget was founded by Peter Rojas in 2004 and won the Web Blogs Awards that year and each year since. Now part of Weblogs Inc (owned by AOL), it is offered on many other sites (including GoogleMail) as a default RSS feed, and is published in English, Spanish, Japanese and Chinese. Last year, a mistake confirmed Engadget's power - upon reporting a supposed email (which turned out to be a hoax) from Apple, informing Apple employees of a delay in the launch of iPhone, Apple's share price fell by 3 per cent within minutes. Rojas also co-founded rival gadget blog Gizmodo.\n\nLeast likely to post 'An iWhat?'\n\nengadget.com",
+      "id": 16
+    },
+    {
+      "title": "Murbary",
+      "content": "No matter what happens between now and 4 November, you can be certain the US presidential election of 2008 will be among the most historically important and dramatic of any fought. Having an informed opinion will be a must, but if you are as yet unable to tell your Iowa Caucus from your Feiler Faster Thesis, Marbury – a British blog on American politics – is the place to start. The site's creator, Ian Leslie, is an ex-expat who fell for American politics during a four-year stint living in New York. The site signposts important events and interesting analyses, gives context and witty commentary on everything from the most serious speeches to the silliest election-themed YouTube clips. And West Wing fans will be pleased to note that the blog's name is a reference to the show's British ambassador to the United States, Lord John Marbury, who, appropriately enough, provided an eccentrically British but reliably insightful appraisal of American politics.\n\nLeast likely to post 'Is it just me or is Romney getting cuter",
+      "id": 17
+    }
+  ]
+}

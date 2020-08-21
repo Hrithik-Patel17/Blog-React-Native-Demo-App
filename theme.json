@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Black And White",
+        "backgroundColor": "#000000FF",
+        "textColor": "#ffffff"
+    },
+    {
+        "id": "2",
+        "name": "Black and Cherry Tomato",
+        "backgroundColor": "#2D2926FF",
+        "textColor": "#E94B3CFF"
+    },
+    {
+        "id": "3",
+        "name": "Red And White",
+        "backgroundColor": "#C70039",
+        "textColor": "#ffffff"
+    },
+    {
+        "id": "4",
+        "name": "Gray and Lime Punch",
+        "backgroundColor": "#606060FF",
+        "textColor": "#D6ED17FF"
+    },
+    {
+        "id": "5",
+        "name": "Black And Orange",
+        "backgroundColor": "#000000",
+        "textColor": "#F0A03A"
+    },
+    {
+        "id": "6",
+        "name": "Ultra Violet  And Blooming Dahlia",
+        "backgroundColor": "#5F4B8BFF",
+        "textColor": "#E69A8DFF"
+    },
+    {
+        "id": "7",
+        "name": "Forest Green and Moss Green",
+        "backgroundColor": "#2C5F2D",
+        "textColor": "#97BC62FF"
+    },
+    {
+        "id": "8",
+        "name": "Sailor Blue and Mint",
+        "backgroundColor": "#00203FFF",
+        "textColor": "#ADEFD1FF"
+    },
+    {
+        "id": "9",
+        "name": "Royal Blue and Peach",
+        "backgroundColor": "#00539CFF",
+        "textColor": "#EEA47FFF"
+    },
+    {
+        "id": "10",
+        "name": "Black and Blazing Yellow",
+        "backgroundColor": "#101820FF",
+        "textColor": "#FEE715FF"
+    }
+]
